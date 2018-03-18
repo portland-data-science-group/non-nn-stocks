@@ -1,0 +1,711 @@
+Symbol,Company.Name,Sector,Industry
+ED,"Consolidated Edison, Inc.",Utilities,Electric Utilities
+DD,E. I. du Pont de Nemours and Company,Basic Materials,Agricultural Chemicals
+CVX,Chevron Corporation,Basic Materials,Major Integrated Oil & Gas
+FL,"Foot Locker, Inc.",Consumer Goods,Textile - Apparel Footwear & Accessories
+CAT,Caterpillar Inc.,Industrial Goods,Farm & Construction Machinery
+IP,International Paper Company,Consumer Goods,Packaging & Containers
+SJW,SJW Group,Utilities,Water Utilities
+F,Ford Motor Company,Consumer Goods,Auto Manufacturers - Major
+LLY,Eli Lilly and Company,Healthcare,Drug Manufacturers - Major
+AVP,"Avon Products, Inc.",Consumer Goods,Personal Products
+NFG,National Fuel Gas Company,Basic Materials,Independent Oil & Gas
+BF.A,NA,NA,NA
+MATX,"Matson, Inc.",Services,Shipping
+BK,The Bank of New York Mellon Corporation,Financial,Asset Management
+SNE,Sony Corporation,Consumer Goods,Electronic Equipment
+KR,The Kroger Co.,Services,Grocery Stores
+BP,BP p.l.c.,Basic Materials,Major Integrated Oil & Gas
+C,Citigroup Inc.,Financial,Money Center Banks
+CL,Colgate-Palmolive Company,Consumer Goods,Personal Products
+APA,Apache Corporation,Basic Materials,Independent Oil & Gas
+DDS,"Dillard's, Inc.",Services,Department Stores
+TSN,"Tyson Foods, Inc.",Consumer Goods,Meat Products
+OII,"Oceaneering International, Inc.",Basic Materials,Oil & Gas Equipment & Services
+BIF,NA,NA,NA
+LAWS,"Lawson Products, Inc.",Services,Industrial Equipment Wholesale
+GWW,"W.W. Grainger, Inc.",Services,Industrial Equipment Wholesale
+JCP,"J. C. Penney Company, Inc.",Services,Department Stores
+VNO,Vornado Realty Trust,Financial,REIT - Diversified
+LPX,Louisiana-Pacific Corporation,Services,Building Materials Wholesale
+WABC,Westamerica Bancorporation,Financial,Regional - Pacific Banks
+NWLI,"National Western Life Group, Inc.",Financial,Life Insurance
+GLT,P. H. Glatfelter Company,Consumer Goods,Paper & Paper Products
+LUB,"Luby's, Inc.",Services,Restaurants
+NL,"NL Industries, Inc.",Services,Industrial Equipment Wholesale
+PGR,The Progressive Corporation,Financial,Property & Casualty Insurance
+BF.B,NA,NA,NA
+ADI,"Analog Devices, Inc.",Technology,Semiconductor - Integrated Circuits
+GHC,Graham Holdings Company,Services,Education & Training Services
+GFI,Gold Fields Limited,Basic Materials,Gold
+SJI,"South Jersey Industries, Inc.",Utilities,Gas Utilities
+SHLM,"A. Schulman, Inc.",Basic Materials,Chemicals - Major Diversified
+BAC,Bank of America Corporation,Financial,Money Center Banks
+CTS,CTS Corporation,Technology,Diversified Electronics
+MAT,"Mattel, Inc.",Consumer Goods,Toys & Games
+AP,Ampco-Pittsburgh Corporation,Industrial Goods,Diversified Machinery
+WGO,"Winnebago Industries, Inc.",Consumer Goods,Recreational Vehicles
+MYL,Mylan N.V.,Healthcare,Drugs - Generic
+TRC,Tejon Ranch Co.,Financial,Property Management
+GIS,"General Mills, Inc.",Consumer Goods,Processed & Packaged Goods
+TMO,Thermo Fisher Scientific Inc.,Healthcare,Medical Laboratories & Research
+VLGEA,"Village Super Market, Inc.",Services,Grocery Stores
+DUK,Duke Energy Corporation,Utilities,Electric Utilities
+JPM,JPMorgan Chase & Co.,Financial,Money Center Banks
+AGYS,"Agilysys, Inc.",Technology,Application Software
+L,Loews Corporation,Financial,Property & Casualty Insurance
+BDX,"Becton, Dickinson and Company",Healthcare,Medical Instruments & Supplies
+D,"Dominion Energy, Inc.",Utilities,Electric Utilities
+TGNA,TEGNA Inc.,Services,Broadcasting - TV
+IR,Ingersoll-Rand Plc,Industrial Goods,Diversified Machinery
+CAL,"Caleres, Inc.",Consumer Goods,Textile - Apparel Footwear & Accessories
+MSEX,Middlesex Water Company,Utilities,Water Utilities
+NJR,New Jersey Resources Corporation,Utilities,Gas Utilities
+ANAT,American National Insurance Company,Financial,Property & Casualty Insurance
+KMT,Kennametal Inc.,Industrial Goods,Machine Tools & Accessories
+SENEB,Seneca Foods Corporation,Consumer Goods,Processed & Packaged Goods
+WMK,"Weis Markets, Inc.",Services,Grocery Stores
+AEM,Agnico Eagle Mines Limited,Basic Materials,Gold
+KMB,Kimberly-Clark Corporation,Consumer Goods,Personal Products
+CHD,"Church & Dwight Co., Inc.",Consumer Goods,Cleaning Products
+DHR,Danaher Corporation,Industrial Goods,Diversified Machinery
+AVA,Avista Corporation,Utilities,Diversified Utilities
+FUL,H.B. Fuller Company,Basic Materials,Specialty Chemicals
+BBT,BB&T Corporation,Financial,Regional - Southeast Banks
+FHN,First Horizon National Corporation,Financial,Regional - Southeast Banks
+INTC,Intel Corporation,Technology,Semiconductor - Broad Line
+KSU,Kansas City Southern,Services,Railroads
+CTG,"Computer Task Group, Incorporated",Technology,Information Technology Services
+KYO,Kyocera Corporation,Technology,Diversified Electronics
+MUX,McEwen Mining Inc.,Basic Materials,Industrial Metals & Minerals
+MOG.A,NA,NA,NA
+CSX,CSX Corporation,Services,Railroads
+CECE,CECO Environmental Corp.,Industrial Goods,Pollution & Treatment Controls
+SEIC,SEI Investments Co.,Financial,Asset Management
+PHIIK,"PHI, Inc.",NA,NA
+NVO,Novo Nordisk A/S,Healthcare,Drug Manufacturers - Other
+COP,ConocoPhillips,Basic Materials,Independent Oil & Gas
+IFF,International Flavors & Fragrances Inc.,Basic Materials,Specialty Chemicals
+SLB,Schlumberger Limited,Basic Materials,Oil & Gas Equipment & Services
+HUM,Humana Inc.,Healthcare,Health Care Plans
+OXY,Occidental Petroleum Corporation,Basic Materials,Independent Oil & Gas
+VLO,Valero Energy Corporation,Basic Materials,Oil & Gas Refining & Marketing
+HRS,Harris Corporation,Technology,Communication Equipment
+SO,The Southern Company,Utilities,Electric Utilities
+THC,Tenet Healthcare Corp.,Healthcare,Hospitals
+IHC,Independence Holding Company,Financial,Life Insurance
+VBF,Invesco Bond Fund,NA,NA
+CVBF,CVB Financial Corp.,Financial,Regional - Pacific Banks
+RDC,Rowan Companies plc,Basic Materials,Oil & Gas Drilling & Exploration
+FMBI,"First Midwest Bancorp, Inc.",Financial,Regional - Midwest Banks
+TRST,TrustCo Bank Corp NY,Financial,Regional - Northeast Banks
+ASNA,"Ascena Retail Group, Inc.",Services,Apparel Stores
+LM,"Legg Mason, Inc.",Financial,Asset Management
+PAYX,"Paychex, Inc.",Services,Staffing & Outsourcing Services
+SLM,SLM Corporation,Financial,Credit Services
+AXE,Anixter International Inc.,Services,Industrial Equipment Wholesale
+SGMS,Scientific Games Corporation,Services,Gaming Activities
+CB,Chubb Limited,Financial,Property & Casualty Insurance
+JCI,Johnson Controls International plc,Consumer Goods,Auto Parts
+SWK,"Stanley Black & Decker, Inc.",Industrial Goods,Machine Tools & Accessories
+NVR,"NVR, Inc.",Industrial Goods,Residential Construction
+ROST,"Ross Stores, Inc.",Services,Apparel Stores
+JKHY,"Jack Henry & Associates, Inc.",Technology,Business Software & Services
+CBU,"Community Bank System, Inc.",Financial,Regional - Midwest Banks
+STKL,SunOpta Inc.,NA,NA
+MSFT,Microsoft Corporation,Technology,Business Software & Services
+HVT.A,NA,NA,NA
+CY,Cypress Semiconductor Corporation,Technology,Semiconductor - Broad Line
+BDN,Brandywine Realty Trust,Financial,REIT - Diversified
+VIVO,"Meridian Bioscience, Inc.",Healthcare,Diagnostic Substances
+FISV,"Fiserv, Inc.",Services,Business Services
+UNM,Unum Group,Financial,Accident & Health Insurance
+TWN,"The Taiwan Fund, Inc.",NA,NA
+EQC,Equity Commonwealth,NA,NA
+MMT,MFS Multimarket Income Trust,NA,NA
+CMU,MFS High Yield Municipal Trust,NA,NA
+FUN,"Cedar Fair, L.P.",Services,General Entertainment
+FBNC,First Bancorp,Financial,Regional - Mid-Atlantic Banks
+TIF,Tiffany & Co.,Services,Jewelry Stores
+AVNW,"Aviat Networks, Inc.",Technology,Communication Equipment
+MGF,MFS Government Markets Income Trust,NA,NA
+WASH,"Washington Trust Bancorp, Inc.",Financial,Regional - Northeast Banks
+CDNS,"Cadence Design Systems, Inc.",Technology,Application Software
+TEF,"Telefónica, S.A.",Technology,Telecom Services - Foreign
+IEP,Icahn Enterprises L.P.,Conglomerates,Conglomerates
+PII,Polaris Industries Inc.,Consumer Goods,Recreational Vehicles
+NNY,"Nuveen New York Municipal Value Fund, Inc.",NA,NA
+NCA,"Nuveen California Municipal Value Fund, Inc.",NA,NA
+VVC,Vectren Corporation,Utilities,Diversified Utilities
+KEY,KeyCorp,Financial,Regional - Midwest Banks
+SMP,"Standard Motor Products, Inc.",Consumer Goods,Auto Parts
+PBT,Permian Basin Royalty Trust,Basic Materials,Independent Oil & Gas
+SWN,Southwestern Energy Company,Basic Materials,Independent Oil & Gas
+SEE,Sealed Air Corporation,Consumer Goods,Packaging & Containers
+SCX,The L.S. Starrett Company,Industrial Goods,Small Tools & Accessories
+SAN,"Banco Santander, S.A.",Financial,Foreign Money Center Banks
+TTF,"The Thai Fund, Inc.",NA,NA
+TFX,Teleflex Incorporated,Healthcare,Medical Instruments & Supplies
+MIN,MFS Intermediate Income Trust,NA,NA
+CHFC,Chemical Financial Corporation,Financial,Regional - Midwest Banks
+GNCMA,"General Communication, Inc.",Technology,Long Distance Carriers
+SUN,Sunoco LP,Basic Materials,Oil & Gas Refining & Marketing
+KTF,Deutsche Municipal Income Trust,NA,NA
+TECH,Bio-Techne Corporation,Healthcare,Biotechnology
+MEN,"BlackRock MuniEnhanced Fund, Inc.",NA,NA
+KSM,Deutsche Strategic Municipal Income Trust,NA,NA
+CXH,MFS Investment Grade Municipal Trust,NA,NA
+AGN,Allergan plc,Healthcare,Drugs - Generic
+MCR,MFS Charter Income Trust,NA,NA
+EA,Electronic Arts Inc.,Technology,Multimedia & Graphics Software
+ZIXI,Zix Corporation,Technology,Application Software
+GIII,"G-III Apparel Group, Ltd.",Consumer Goods,Textile - Apparel Clothing
+POT,Potash Corporation of Saskatchewan Inc.,Basic Materials,Agricultural Chemicals
+ICON,"Iconix Brand Group, Inc.",Consumer Goods,Textile - Apparel Footwear & Accessories
+JOE,The St. Joe Company,Financial,Real Estate Development
+TEX,Terex Corporation,Industrial Goods,Farm & Construction Machinery
+SSP,The E. W. Scripps Company,Services,Broadcasting - TV
+RIO,Rio Tinto plc,Basic Materials,Industrial Metals & Minerals
+MXE,Mexico Equity & Income Fund Inc.,NA,NA
+AZO,"AutoZone, Inc.",Services,Auto Parts Stores
+PRGS,Progress Software Corporation,Technology,Application Software
+EZPW,"EZCORP, Inc.",Financial,Credit Services
+NUM,Nuveen Michigan Quality Municipal Income Fund,NA,NA
+ATNI,"ATN International, Inc.",Technology,Telecom Services - Domestic
+OI,"Owens-Illinois, Inc.",Consumer Goods,Packaging & Containers
+QCOM,QUALCOMM Incorporated,Technology,Communication Equipment
+ELY,Callaway Golf Company,Consumer Goods,Sporting Goods
+PPR,Voya Prime Rate Trust,NA,NA
+NBTB,NBT Bancorp Inc.,Financial,Regional - Northeast Banks
+SCLN,"SciClone Pharmaceuticals, Inc.",Healthcare,Drug Manufacturers - Other
+FRED,"Fred's, Inc.",Services,"Discount, Variety Stores"
+KOPN,Kopin Corporation,Technology,Semiconductor - Broad Line
+STBA,"S&T Bancorp, Inc.",Financial,Regional - Northeast Banks
+HQL,Tekla Life Sciences Investors,NA,NA
+CACC,Credit Acceptance Corporation,Financial,Credit Services
+LDF,"The Latin American Discovery Fund, Inc.",NA,NA
+PX,"Praxair, Inc.",Basic Materials,Chemicals - Major Diversified
+JEQ,NA,NA,NA
+EQS,NA,NA,NA
+CCU,Compañía Cervecerías Unidas S.A.,Consumer Goods,Beverages - Brewers
+TRIB,Trinity Biotech plc,Healthcare,Diagnostic Substances
+MTX,Minerals Technologies Inc.,Basic Materials,Chemicals - Major Diversified
+PDCO,"Patterson Companies, Inc.",Services,Medical Equipment Wholesale
+MIY,"BlackRock MuniYield Michigan Quality Fund, Inc.",NA,NA
+QUMU,Qumu Corporation,Technology,Computer Peripherals
+TCO,"Taubman Centers, Inc.",Financial,REIT - Retail
+AAON,"AAON, Inc.",Industrial Goods,General Building Materials
+BBOX,Black Box Corporation,Technology,Networking & Communication Devices
+CHK,Chesapeake Energy Corporation,Basic Materials,Independent Oil & Gas
+BKN,BlackRock Investment Quality Municipal Trust Inc.,NA,NA
+MS,Morgan Stanley,Financial,Investment Brokerage - National
+SCVL,"Shoe Carnival, Inc.",Services,Apparel Stores
+NMT,Nuveen Massachusetts Quality Municipal Income Fund,NA,NA
+NPV,Nuveen Virginia Quality Municipal Income Fund,NA,NA
+ALG,Alamo Group Inc.,Industrial Goods,Farm & Construction Machinery
+SYBT,"Stock Yards Bancorp, Inc.",Financial,Regional - Southeast Banks
+TCBK,TriCo Bancshares,Financial,Regional - Pacific Banks
+AKR,Acadia Realty Trust,Financial,Property Management
+THRM,Gentherm Incorporated,Consumer Goods,Auto Parts
+BBSI,"Barrett Business Services, Inc.",Services,Staffing & Outsourcing Services
+CPT,Camden Property Trust,Financial,REIT - Residential
+MCRI,"Monarch Casino & Resort, Inc.",Services,Resorts & Casinos
+EQR,Equity Residential,Financial,REIT - Residential
+BWA,BorgWarner Inc.,Consumer Goods,Auto Parts
+UBSH,Union Bankshares Corporation,Financial,Regional - Mid-Atlantic Banks
+RVSB,"Riverview Bancorp, Inc.",Financial,Savings & Loans
+AF,Astoria Financial Corporation,Financial,Savings & Loans
+BFR,BBVA Banco Francés S.A.,Financial,Foreign Regional Banks
+TV,"Grupo Televisa, S.A.B.",Services,Broadcasting - TV
+EMN,Eastman Chemical Company,Basic Materials,Chemicals - Major Diversified
+ARWR,"Arrowhead Pharmaceuticals, Inc.",Healthcare,Biotechnology
+OKSB,"Southwest Bancorp, Inc.",Financial,Regional - Southwest  Banks
+MED,"Medifast, Inc.",Services,"Specialty Retail, Other"
+ALB,Albemarle Corporation,Basic Materials,Specialty Chemicals
+BZH,"Beazer Homes USA, Inc.",Industrial Goods,Residential Construction
+NMRX,Numerex Corp.,Technology,Communication Equipment
+MPAA,"Motorcar Parts of America, Inc.",Consumer Goods,Auto Parts
+USNA,"USANA Health Sciences, Inc.",Healthcare,Drug Related Products
+CNOB,"ConnectOne Bancorp, Inc.",Financial,Regional - Northeast Banks
+VVUS,"VIVUS, Inc.",Healthcare,Biotechnology
+HMY,Harmony Gold Mining Company Limited,Basic Materials,Gold
+HIW,"Highwoods Properties, Inc.",Financial,REIT - Office
+AKO.A,NA,NA,NA
+ADTN,"ADTRAN, Inc.",Technology,Communication Equipment
+AMED,"Amedisys, Inc.",Healthcare,Home Health Care
+RS,Reliance Steel & Aluminum Co.,Basic Materials,Steel & Iron
+CETV,Central European Media Enterprises Ltd.,Services,Broadcasting - TV
+VCO,Viña Concha y Toro S.A.,Consumer Goods,Beverages - Brewers
+BMO,Bank of Montreal,Financial,Money Center Banks
+UHAL,AMERCO,Services,Rental & Leasing Services
+TGS,Transportadora de Gas Del Sur S.A.,Utilities,Gas Utilities
+EME,"EMCOR Group, Inc.",Industrial Goods,General Contractors
+PAAS,Pan American Silver Corp.,NA,NA
+HA,"Hawaiian Holdings, Inc.",Services,Regional Airlines
+KFRC,Kforce Inc.,Services,Staffing & Outsourcing Services
+AVX,AVX Corporation,Technology,Diversified Electronics
+BREW,"Craft Brew Alliance, Inc.",Consumer Goods,Beverages - Brewers
+AGX,"Argan, Inc.",Industrial Goods,Heavy Construction
+ERIE,Erie Indemnity Company,Financial,Insurance Brokers
+POOL,Pool Corporation,Consumer Goods,Sporting Goods
+BAP,Credicorp Ltd.,Financial,Money Center Banks
+WAT,Waters Corporation,Healthcare,Medical Instruments & Supplies
+PRXL,PAREXEL International Corporation,Healthcare,Medical Laboratories & Research
+NVAX,"Novavax, Inc.",Healthcare,Biotechnology
+ITT,ITT Inc.,Industrial Goods,Diversified Machinery
+IPXL,"Impax Laboratories, Inc.",Healthcare,Drug Manufacturers - Major
+FTAI,Fortress Transportation and Infrastructure Investors LLC,Services,Rental & Leasing Services
+SCCO,Southern Copper Corporation,Basic Materials,Copper
+RCI,Rogers Communications Inc.,Technology,Wireless Communications
+CSGS,"CSG Systems International, Inc.",Technology,Business Software & Services
+REV,"Revlon, Inc.",Consumer Goods,Personal Products
+CENX,Century Aluminum Company,Basic Materials,Aluminum
+JAKK,"JAKKS Pacific, Inc.",Consumer Goods,Toys & Games
+ANSS,"Ansys, Inc.",Technology,Application Software
+PEGA,"Pegasystems, Inc.",Technology,Business Software & Services
+LAMR,Lamar Advertising Company,Financial,REIT - Diversified
+ETFC,E*TRADE Financial Corporation,Financial,Investment Brokerage - National
+FMS,Fresenius Medical Care AG & Co. KGAA,Healthcare,Specialized Health Services
+NCI,"Navigant Consulting, Inc.",Services,Management Services
+NVS,Novartis AG,Healthcare,Drug Manufacturers - Major
+PDS,Precision Drilling Corporation,Basic Materials,Oil & Gas Equipment & Services
+PSO,Pearson plc,Services,Publishing - Books
+NUS,"Nu Skin Enterprises, Inc.",Consumer Goods,Personal Products
+EMITF,Elbit Imaging Ltd.,NA,NA
+TESO,Tesco Corporation,Basic Materials,Oil & Gas Equipment & Services
+VSAT,"ViaSat, Inc.",Technology,Communication Equipment
+SNAK,"Inventure Foods, Inc.",Consumer Goods,Processed & Packaged Goods
+SNHY,Sun Hydraulics Corporation,Industrial Goods,Industrial Equipment & Components
+ESGR,Enstar Group Limited,Financial,Property & Casualty Insurance
+ALV,"Autoliv, Inc.",Consumer Goods,Auto Parts
+FBC,"Flagstar Bancorp, Inc.",Financial,Savings & Loans
+VTR,"Ventas, Inc.",Financial,REIT - Healthcare Facilities
+AMZN,"Amazon.com, Inc.",Services,Catalog & Mail Order Houses
+NTL,Nortel Inversora S.A.,Technology,Telecom Services - Foreign
+SRT,"StarTek, Inc.",Services,Business Services
+FIX,"Comfort Systems USA, Inc.",Industrial Goods,General Contractors
+EGHT,"8x8, Inc.",Technology,Diversified Communication Services
+PSMT,"PriceSmart, Inc.",Services,"Discount, Variety Stores"
+PLCE,"The Children's Place, Inc.",Services,Apparel Stores
+SRI,"Stoneridge, Inc.",Consumer Goods,Auto Parts
+CHRW,"C.H. Robinson Worldwide, Inc.",Services,Air Delivery & Freight Services
+FORTY,Formula Systems (1985) Ltd.,Technology,Business Software & Services
+CHL,China Mobile Limited,Technology,Wireless Communications
+CSU,Capital Senior Living Corporation,Healthcare,Long-Term Care Facilities
+SAH,"Sonic Automotive, Inc.",Services,Auto Dealerships
+GEOS,Geospace Technologies Corporation,Basic Materials,Oil & Gas Equipment & Services
+AI,Arlington Asset Investment Corp.,Financial,Mortgage Investment
+NICK,"Nicholas Financial, Inc.",Financial,Credit Services
+PWR,"Quanta Services, Inc.",Industrial Goods,General Contractors
+SCS,Steelcase Inc.,Consumer Goods,Business Equipment
+WDR,"Waddell & Reed Financial, Inc.",Financial,Asset Management
+UVSP,Univest Corporation of Pennsylvania,Financial,Regional - Northeast Banks
+CFFI,C&F Financial Corporation,Financial,Regional - Mid-Atlantic Banks
+FII,"Federated Investors, Inc.",Financial,Asset Management
+AXTI,"AXT, Inc.",Technology,Semiconductor - Integrated Circuits
+BDE,NA,NA,NA
+HCKT,"The Hackett Group, Inc.",Services,Management Services
+GIL,Gildan Activewear Inc.,Consumer Goods,Textile - Apparel Clothing
+CSGP,"CoStar Group, Inc.",Financial,Property Management
+HTBK,Heritage Commerce Corp,Financial,Regional - Pacific Banks
+RBCAA,"Republic Bancorp, Inc.",Financial,Regional - Southeast Banks
+IX,ORIX Corporation,Financial,Credit Services
+VIV,Telefônica Brasil S.A.,Technology,Wireless Communications
+PAA,"Plains All American Pipeline, L.P.",Basic Materials,Oil & Gas Pipelines
+BCOR,"Blucora, Inc.",Technology,Internet Information Providers
+AMRB,American River Bankshares,Financial,Regional - Pacific Banks
+BAK,Braskem S.A.,Basic Materials,Chemicals - Major Diversified
+ETM,Entercom Communications Corp.,Services,Broadcasting - Radio
+GBL,"GAMCO Investors, Inc.",Financial,Asset Management
+EPAY,"Bottomline Technologies (de), Inc.",Technology,Business Software & Services
+EXTR,"Extreme Networks, Inc.",Technology,Networking & Communication Devices
+ATLC,Atlanticus Holdings Corporation,Financial,Credit Services
+PGC,Peapack-Gladstone Financial Corporation,Financial,Regional - Northeast Banks
+WTBA,"West Bancorporation, Inc.",Financial,Regional - Southwest  Banks
+KT,KT Corporation,Technology,Telecom Services - Foreign
+NAD,Nuveen Quality Municipal Income Fund,NA,NA
+FFIV,"F5 Networks, Inc.",Technology,Business Software & Services
+JNPR,"Juniper Networks, Inc.",Technology,Networking & Communication Devices
+KTP,NA,NA,NA
+FNLC,"The First Bancorp, Inc.",Financial,Regional - Northeast Banks
+HSBC,HSBC Holdings plc,Financial,Foreign Money Center Banks
+ACTA,Actua Corporation,Technology,Application Software
+PCTI,"PCTEL, Inc.",Technology,Wireless Communications
+RHT,"Red Hat, Inc.",Technology,Application Software
+NTCT,"NetScout Systems, Inc.",Technology,Business Software & Services
+MFC,Manulife Financial Corporation,Financial,Life Insurance
+RDWR,Radware Ltd.,Technology,Information Technology Services
+BLK,"BlackRock, Inc.",Financial,Asset Management
+CIR,"CIRCOR International, Inc.",Industrial Goods,Industrial Equipment & Components
+PTNR,Partner Communications Company Ltd.,Technology,Wireless Communications
+NSL,Nuveen Senior Income Fund,NA,NA
+AKAM,"Akamai Technologies, Inc.",Technology,Internet Information Providers
+TDY,Teledyne Technologies Incorporated,Technology,Scientific & Technical Instruments
+BST,NA,NA,NA
+PKG,Packaging Corporation of America,Consumer Goods,Packaging & Containers
+UTSI,UTStarcom Holdings Corp.,Technology,Wireless Communications
+EW,Edwards Lifesciences Corporation,Healthcare,Medical Appliances & Equipment
+PTR,PetroChina Company Limited,Basic Materials,Major Integrated Oil & Gas
+FBR,Fibria Celulose S.A.,Consumer Goods,Paper & Paper Products
+GSOL,Global Sources Ltd.,Services,Business Services
+ON,ON Semiconductor Corporation,Technology,Semiconductor - Broad Line
+UBS,UBS Group AG,Financial,Foreign Money Center Banks
+SONS,"Sonus Networks, Inc.",Technology,Communication Equipment
+ISRG,"Intuitive Surgical, Inc.",Healthcare,Medical Appliances & Equipment
+CHU,China Unicom (Hong Kong) Limited,Technology,Wireless Communications
+MVC,NA,NA,NA
+ENTG,"Entegris, Inc.",Technology,Semiconductor Equipment & Materials
+ERJ,Embraer S.A.,Industrial Goods,Aerospace/Defense Products & Services
+INFI,"Infinity Pharmaceuticals, Inc.",Healthcare,Biotechnology
+SPTN,SpartanNash Company,Services,Food Wholesale
+ASR,"Grupo Aeroportuario del Sureste, S. A. B. de C. V.",Services,"Air Services, Other"
+GRMN,Garmin Ltd.,Technology,Scientific & Technical Instruments
+GPN,Global Payments Inc.,Services,Business Services
+CSFL,CenterState Bank Corporation,Financial,Regional - Southeast Banks
+AMOV,"América Móvil, S.A.B. de C.V.",NA,NA
+OIS,"Oil States International, Inc.",Basic Materials,Oil & Gas Equipment & Services
+IDT,IDT Corporation,Technology,Diversified Communication Services
+COL,"Rockwell Collins, Inc.",Industrial Goods,Aerospace/Defense Products & Services
+FIS,"Fidelity National Information Services, Inc.",Technology,Information Technology Services
+TAC,TransAlta Corporation,Utilities,Diversified Utilities
+PFG,"Principal Financial Group, Inc.",Financial,Life Insurance
+CCRN,"Cross Country Healthcare, Inc.",Services,Staffing & Outsourcing Services
+LYG,Lloyds Banking Group plc,Financial,Foreign Money Center Banks
+AKP,"Alliance California Municipal Income Fund, Inc.",NA,NA
+MANT,ManTech International Corporation,Technology,Security Software & Services
+JBLU,JetBlue Airways Corporation,Services,Regional Airlines
+NPO,"EnPro Industries, Inc.",Industrial Goods,Industrial Equipment & Components
+BGFV,Big 5 Sporting Goods Corporation,Services,Sporting Goods Stores
+JPS,Nuveen Preferred Securities Income Fund,NA,NA
+NGS,"Natural Gas Services Group, Inc.",Basic Materials,Oil & Gas Equipment & Services
+MMLP,Martin Midstream Partners L.P.,Basic Materials,Oil & Gas Pipelines
+CME,CME Group Inc.,Financial,Investment Brokerage - National
+STX,Seagate Technology plc,Technology,Data Storage Devices
+FPT,Federated Premier Intermediate Municipal Income Fund,NA,NA
+NKX,Nuveen California AMT-Free Quality Municipal Income Fund,NA,NA
+IHG,InterContinental Hotels Group PLC,Services,Lodging
+CHY,Calamos Convertible and High Income Fund,NA,NA
+DGICA,Donegal Group Inc.,NA,NA
+NTGR,"NETGEAR, Inc.",Technology,Communication Equipment
+TI.A,NA,NA,NA
+EVT,Eaton Vance Tax-Advantaged Dividend Income Fund,NA,NA
+WIA,Western Asset/Claymore Inflation-Linked Securities & Income Fund,NA,NA
+WF,"Woori Bank Co., Ltd.",NA,NA
+LKQ,LKQ Corporation,Consumer Goods,Auto Parts
+CMS.PB,NA,NA,NA
+PIY,NA,NA,NA
+MRLN,Marlin Business Services Corp.,Financial,Mortgage Investment
+NXST,"Nexstar Media Group, Inc.",Services,Broadcasting - TV
+KTN,NA,NA,NA
+AHL,Aspen Insurance Holdings Limited,Financial,Property & Casualty Insurance
+ETG,Eaton Vance Tax-Advantaged Global Dividend Income Fund,NA,NA
+WIW,Western Asset/Claymore Inflation-Linked Opportunities & Income Fund,NA,NA
+RNR.PC,NA,NA,NA
+MFD,NA,NA,NA
+MCHX,"Marchex, Inc.",Services,Marketing Services
+GJH,NA,NA,NA
+ALNY,"Alnylam Pharmaceuticals, Inc.",Healthcare,Biotechnology
+LPL,"LG Display Co., Ltd.",Technology,Diversified Electronics
+PYT,NA,NA,NA
+BECN,"Beacon Roofing Supply, Inc.",Industrial Goods,General Building Materials
+EOI,Eaton Vance Enhanced Equity Income Fund,NA,NA
+BBW,"Build-A-Bear Workshop, Inc.",Services,Toy & Hobby Stores
+DLR,"Digital Realty Trust, Inc.",Financial,REIT - Office
+OHAI,NA,NA,NA
+ORA,"Ormat Technologies, Inc.",Utilities,Electric Utilities
+FMO,Fiduciary/Claymore MLP Opportunity Fund,NA,NA
+CE,Celanese Corporation,Basic Materials,Chemicals - Major Diversified
+LCM,Advent/Claymore Enhanced Growth & Income Fund,NA,NA
+PBH,"Prestige Brands Holdings, Inc.",Healthcare,Medical Appliances & Equipment
+EVG,Eaton Vance Short Duration Diversified Income Fund,NA,NA
+MORN,"Morningstar, Inc.",Technology,Information & Delivery Services
+TGP,Teekay LNG Partners L.P.,Services,Shipping
+BOE,NA,NA,NA
+LOR,Lazard World Dividend & Income Fund Inc.,NA,NA
+SLMBP,SLM Corporation,NA,NA
+LORL,Loral Space & Communications Inc.,Technology,Communication Equipment
+BDJ,NA,NA,NA
+GHDX,"Genomic Health, Inc.",Healthcare,Medical Laboratories & Research
+GLP,Global Partners LP,Services,Basic Materials Wholesale
+WSBF,"Waterstone Financial, Inc.",Financial,Savings & Loans
+EGF,NA,NA,NA
+AAWW,"Atlas Air Worldwide Holdings, Inc.",Services,"Air Services, Other"
+FBIZ,"First Business Financial Services, Inc.",Financial,Regional - Midwest Banks
+GYC,NA,NA,NA
+VIAB,"Viacom, Inc.",Services,Entertainment - Diversified
+GDV.PA,NA,NA,NA
+HEES,"H&E Equipment Services, Inc.",Services,Rental & Leasing Services
+PERI,Perion Network Ltd.,Technology,Business Software & Services
+ETE,"Energy Transfer Equity, L.P.",Basic Materials,Oil & Gas Pipelines
+XCO,"EXCO Resources, Inc.",Basic Materials,Independent Oil & Gas
+BTA,BlackRock Long-Term Municipal Advantage Trust,NA,NA
+TDG,TransDigm Group Incorporated,Industrial Goods,Aerospace/Defense Products & Services
+PFK,"Prudential Financial, Inc.",NA,NA
+QVCA,QVC Group,Services,Catalog & Mail Order Houses
+GS.PD,NA,NA,NA
+MA,Mastercard Incorporated,Financial,Credit Services
+MWA,"Mueller Water Products, Inc.",Industrial Goods,Industrial Equipment & Components
+SNCR,"Synchronoss Technologies, Inc.",Technology,Application Software
+KALU,Kaiser Aluminum Corporation,Basic Materials,Aluminum
+WYN,Wyndham Worldwide Corporation,Services,Lodging
+CPG,Crescent Point Energy Corp.,Basic Materials,Independent Oil & Gas
+WNS,WNS (Holdings) Limited,Services,Business Services
+AGD,NA,NA,NA
+EDU,New Oriental Education & Technology Group Inc.,Services,Education & Training Services
+WU,The Western Union Company,Financial,Credit Services
+GURE,"Gulf Resources, Inc.",Basic Materials,Specialty Chemicals
+IPHS,"Innophos Holdings, Inc.",Basic Materials,Specialty Chemicals
+ALLT,Allot Communications Ltd.,Technology,Communication Equipment
+ETY,Eaton Vance Tax-Managed Diversified Equity Income Fund,NA,NA
+AFSI,"AmTrust Financial Services, Inc.",Financial,Property & Casualty Insurance
+GTT,"GTT Communications, Inc.",Technology,Diversified Communication Services
+BTZ,NA,NA,NA
+CTAA,Qwest Corporation,NA,NA
+EIG,"Employers Holdings, Inc.",Financial,Accident & Health Insurance
+ARAY,Accuray Incorporated,Healthcare,Medical Appliances & Equipment
+PSTB,Park Sterling Corporation,Financial,Regional - Southeast Banks
+KS,KapStone Paper and Packaging Corporation,Consumer Goods,Paper & Paper Products
+CPLP,Capital Product Partners L.P.,Services,Shipping
+AFC,Allied Capital Corporation,NA,NA
+PNNT,NA,NA,NA
+EDD,"Morgan Stanley Emerging Markets Domestic Debt Fund, Inc.",NA,NA
+CAVM,"Cavium, Inc.",Technology,Semiconductor - Broad Line
+IBKR,"Interactive Brokers Group, Inc.",Financial,Investment Brokerage - National
+BGY,NA,NA,NA
+TYPE,Monotype Imaging Holdings Inc.,Technology,Application Software
+GOF,Guggenheim Strategic Opportunities Fund,NA,NA
+GJT,"Strats(SM) Trust For Allstate Corp Securities, Series 2006-3",NA,NA
+CXO,Concho Resources Inc.,Basic Materials,Oil & Gas Drilling & Exploration
+VRTU,Virtusa Corporation,Technology,Information Technology Services
+CZZ,Cosan Limited,Utilities,Diversified Utilities
+ATHN,"athenahealth, Inc.",Technology,Healthcare Information Services
+REN,Resolute Energy Corporation,Basic Materials,Independent Oil & Gas
+MAIN,Main Street Capital Corporation,Financial,Diversified Investments
+DFT,"DuPont Fabros Technology, Inc.",Financial,REIT - Office
+CVI,"CVR Energy, Inc.",Basic Materials,Oil & Gas Refining & Marketing
+BCOM,B Communications Ltd,Technology,Diversified Communication Services
+AMCN,AirMedia Group Inc.,Services,Marketing Services
+ENSG,"The Ensign Group, Inc.",Healthcare,Long-Term Care Facilities
+NFBK,"Northfield Bancorp, Inc. (Staten Island, NY)",Financial,Regional - Northeast Banks
+ARR,"ARMOUR Residential REIT, Inc.",Financial,REIT - Residential
+XIN,"Xinyuan Real Estate Co., Ltd.",Financial,Real Estate Development
+WFC.PJ,NA,NA,NA
+PYS,PPlus Trust Series RRD-1,NA,NA
+NWE,Northwestern Corporation,Utilities,Diversified Utilities
+SOL,ReneSola Ltd,Technology,Semiconductor - Specialized
+AHC,A.H. Belo Corporation,Services,Publishing - Newspapers
+PM,Philip Morris International Inc.,Consumer Goods,Cigarettes
+BAC.PE,NA,NA,NA
+DPS,"Dr Pepper Snapple Group, Inc.",Consumer Goods,Beverages - Soft Drinks
+SB,"Safe Bulkers, Inc.",Services,Shipping
+SNI,"Scripps Networks Interactive, Inc.",Services,Broadcasting - TV
+DL,China Distance Education Holdings Limited,Services,Education & Training Services
+TREE,"LendingTree, Inc.",Financial,Mortgage Investment
+ASCMA,"Ascent Capital Group, Inc.",Services,Security & Protection Services
+EBR,Centrais Elétricas Brasileiras S.A. - Eletrobras,Utilities,Electric Utilities
+CLW,Clearwater Paper Corporation,Consumer Goods,Paper & Paper Products
+AGI,Alamos Gold Inc.,Basic Materials,Gold
+EOT,Eaton Vance National Municipal Opportunities Trust,NA,NA
+CYS,"CYS Investments, Inc.",Financial,REIT - Diversified
+MDSO,"Medidata Solutions, Inc.",Technology,Healthcare Information Services
+BUD,Anheuser-Busch InBev SA/NV,Consumer Goods,Beverages - Brewers
+IGI,NA,NA,NA
+TBNK,Territorial Bancorp Inc.,Financial,Regional - Pacific Banks
+CPIX,Cumberland Pharmaceuticals Inc.,Healthcare,Drug Manufacturers - Other
+SEM,Select Medical Holdings Corporation,Healthcare,Hospitals
+ECHO,"Echo Global Logistics, Inc.",Services,Trucking
+VRSK,"Verisk Analytics, Inc.",Services,Business Services
+PAM,Pampa Energía S.A.,Utilities,Electric Utilities
+IRWD,"Ironwood Pharmaceuticals, Inc.",Healthcare,Drugs - Generic
+TRNO,Terreno Realty Corporation,Financial,REIT - Industrial
+STNG,Scorpio Tankers Inc.,Services,Shipping
+PRI,"Primerica, Inc.",Financial,Life Insurance
+AOSL,Alpha and Omega Semiconductor Limited,Technology,Semiconductor - Specialized
+EXPR,"Express, Inc.",Services,Apparel Stores
+JKS,"JinkoSolar Holding Co., Ltd.",Technology,Semiconductor - Specialized
+HSEB,HSBC Holdings plc,NA,NA
+FN,Fabrinet,Consumer Goods,Electronic Equipment
+QUAD,"Quad/Graphics, Inc.",Services,Business Services
+COR,CoreSite Realty Corporation,Financial,REIT - Office
+AMRS,"Amyris, Inc.",Basic Materials,Specialty Chemicals
+FSD,NA,NA,NA
+KEYW,The KEYW Holding Corporation,Technology,Application Software
+GPRK,GeoPark Limited,Basic Materials,Oil & Gas Drilling & Exploration
+GBT,Global Blood Therapeutics Inc.,Healthcare,Biotechnology
+PACB,"Pacific Biosciences of California, Inc.",Healthcare,Biotechnology
+GBAB,Guggenheim Taxable Municipal Managed Duration Trust,NA,NA
+BAH,Booz Allen Hamilton Holding Corporation,Services,Management Services
+BITA,Bitauto Holdings Limited,Technology,Internet Information Providers
+RFP,Resolute Forest Products Inc.,Consumer Goods,Paper & Paper Products
+OXLC,Oxford Lane Capital Corp.,NA,NA
+AFT,Apollo Senior Floating Rate Fund Inc.,NA,NA
+HCA,"HCA Healthcare, Inc.",Healthcare,Hospitals
+CSOD,"Cornerstone OnDemand, Inc.",Technology,Application Software
+FF,FutureFuel Corp.,Basic Materials,Chemicals - Major Diversified
+GNC,"GNC Holdings, Inc.",Services,Drug Stores
+THR,"Thermon Group Holdings, Inc.",Industrial Goods,Diversified Machinery
+NMFC,NA,NA,NA
+YNDX,Yandex N.V.,Technology,Internet Information Providers
+SAVE,"Spirit Airlines, Inc.",Services,Major Airlines
+P,"Pandora Media, Inc.",Services,Broadcasting - Radio
+WAIR,"Wesco Aircraft Holdings, Inc.",Services,Industrial Equipment Wholesale
+GNE,Genie Energy Ltd.,Basic Materials,Independent Oil & Gas
+VAC,Marriott Vacations Worldwide Corporation,Services,Resorts & Casinos
+DLPH,Delphi Automotive PLC,Consumer Goods,Auto Parts
+MN,"Manning & Napier, Inc.",Financial,Asset Management
+KORS,Michael Kors Holdings Limited,Consumer Goods,Textile - Apparel Clothing
+BCEI,Bonanza Creek Energy Inc.,Basic Materials,Independent Oil & Gas
+GWRE,"Guidewire Software, Inc.",Technology,Business Software & Services
+CCXI,"ChemoCentryx, Inc.",Healthcare,Biotechnology
+SIR,Select Income REIT,Financial,REIT - Office
+ALSN,"Allison Transmission Holdings, Inc.",Consumer Goods,Auto Parts
+VNTV,"Vantiv, Inc.",Services,Business Services
+HTF,Horizon Technology Finance Corporation,NA,NA
+BWG,NA,NA,NA
+RM,Regional Management Corp.,Financial,Credit Services
+VCRA,"Vocera Communications, Inc.",Technology,Communication Equipment
+RXN,Rexnord Corporation,Industrial Goods,Diversified Machinery
+PBYI,"Puma Biotechnology, Inc.",Healthcare,Biotechnology
+BGCA,"BGC Partners, Inc.",NA,NA
+ELJ,"Entergy Louisiana, LLC",NA,NA
+HTBI,"HomeTrust Bancshares, Inc.",Financial,Regional - Northeast Banks
+FIVE,"Five Below, Inc.",Services,"Specialty Retail, Other"
+CHUY,"Chuy's Holdings, Inc.",Services,Restaurants
+SWJ,"Stanley Black & Decker, Inc.",NA,NA
+LDP,"Cohen & Steers Limited Duration Preferred and Income Fund, Inc.",NA,NA
+BLMN,"Bloomin' Brands, Inc.",Services,Restaurants
+RZA,"Reinsurance Group of America, Incorporated",NA,NA
+AGIIL,"Argo Group US, Inc.",NA,NA
+QLYS,"Qualys, Inc.",Technology,Application Software
+DTQ,DTE Energy Company,NA,NA
+ANFI,Amira Nature Foods Ltd.,Consumer Goods,Food - Major Diversified
+WDAY,"Workday, Inc.",Technology,Application Software
+SDLP,Seadrill Partners LLC,Basic Materials,Oil & Gas Drilling & Exploration
+SIEN,"Sientra, Inc.",NA,NA
+MRCC,NA,NA,NA
+BGH,Barings Global Short Duration High Yield Fund,NA,NA
+EDI,Stone Harbor Emerging Markets Total Income Fund,NA,NA
+MPLX,MPLX LP,Basic Materials,Oil & Gas Pipelines
+SXE,"Southcross Energy Partners, L.P.",Utilities,Gas Utilities
+RH,RH,Services,Home Furnishing Stores
+ENJ,NA,NA,NA
+RESI,Altisource Residential Corporation,Financial,REIT - Residential
+GHY,"Prudential Global Short Duration High Yield Fund, Inc.",NA,NA
+USAC,"USA Compression Partners, LP",Basic Materials,Oil & Gas Equipment & Services
+CVRR,"CVR Refining, LP",Basic Materials,Oil & Gas Refining & Marketing
+XONE,The ExOne Company,Industrial Goods,Diversified Machinery
+VTRB,NA,NA,NA
+SSNI,"Silver Spring Networks, Inc.",Technology,Computer Based Systems
+ENTA,"Enanta Pharmaceuticals, Inc.",Healthcare,Biotechnology
+PF,Pinnacle Foods Inc.,Consumer Goods,Food - Major Diversified
+DSL,DoubleLine Income Solutions Fund,NA,NA
+AMBC,"Ambac Financial Group, Inc.",Financial,Surety & Title Insurance
+BIOA,BioAmber Inc.,Basic Materials,Chemicals - Major Diversified
+DFP,"Delphi Financial Group, Inc.",NA,NA
+NYMTP,"New York Mortgage Trust, Inc.",NA,NA
+COTY,Coty Inc.,Consumer Goods,Personal Products
+MNK,Mallinckrodt Public Limited Company,Healthcare,Drugs - Generic
+BLUE,"bluebird bio, Inc.",Healthcare,Biotechnology
+PTCT,"PTC Therapeutics, Inc.",Healthcare,Biotechnology
+GOGO,Gogo Inc.,Technology,Diversified Communication Services
+AIY,NA,NA,NA
+TRMR,"Tremor Video, Inc.",Technology,Application Software
+FSFR,Fifth Street Senior Floating Rate Corp.,NA,NA
+UCP,NA,NA,NA
+DOC,Physicians Realty Trust,Financial,REIT - Healthcare Facilities
+WHFBL,"WhiteHorse Finance, Inc.",NA,NA
+GRAM,Graña y Montero S.A.A.,Services,Technical Services
+CTRL,Control4 Corporation,Technology,Diversified Electronics
+ASC,Ardmore Shipping Corporation,Services,Shipping
+TPRE,Third Point Reinsurance Ltd.,Financial,Property & Casualty Insurance
+ZBK,Zions Bancorporation,NA,NA
+FMI,"Foundation Medicine, Inc.",Healthcare,Medical Laboratories & Research
+PINC,"Premier, Inc.",Technology,Healthcare Information Services
+RNG,"RingCentral, Inc.",Technology,Application Software
+RMAX,"RE/MAX Holdings, Inc.",Financial,Property Management
+ESRT,"Empire State Realty Trust, Inc.",Financial,REIT - Diversified
+FTD,"FTD Companies, Inc.",Services,"Specialty Retail, Other"
+VJET,Voxeljet AG,Technology,Computer Peripherals
+WUBA,58.com Inc.,Technology,Internet Information Providers
+WIX,Wix.com Ltd.,Technology,Internet Information Providers
+GMZ,Goldman Sachs MLP Income Opportunities Fund,NA,NA
+VLP,Valero Energy Partners LP,Basic Materials,Oil & Gas Pipelines
+HLT,Hilton Worldwide Holdings Inc.,Services,Lodging
+AMC,"AMC Entertainment Holdings, Inc.",Services,"Movie Production, Theaters"
+SC,Santander Consumer USA Holdings Inc.,Financial,Mortgage Investment
+VER.PF,NA,NA,NA
+JMPC,JMP Group LLC,NA,NA
+ATEN,"A10 Networks, Inc.",Technology,Communication Equipment
+TSLX,NA,NA,NA
+NORD,"Nord Anglia Education, Inc.",Services,Education & Training Services
+TNET,"TriNet Group, Inc.",Services,Business Services
+FPL,NA,NA,NA
+JMLP,Nuveen All Cap Energy MLP Opportunities Fund,NA,NA
+TWOU,"2U, Inc.",Technology,Application Software
+HIVE,"Aerohive Networks, Inc.",Technology,Communication Equipment
+SSWN,Seaspan Corporation,NA,NA
+FSIC,NA,NA,NA
+WB,Weibo Corporation,Technology,Internet Information Providers
+SPWH,"Sportsman's Warehouse Holdings, Inc.",Consumer Goods,Sporting Goods
+SB.PC,NA,NA,NA
+GLOP,GasLog Partners LP,Services,Shipping
+PBFX,PBF Logistics LP,Basic Materials,Oil & Gas Pipelines
+ABRN,"Arbor Realty Trust, Inc.",NA,NA
+GLADO,Gladstone Capital Corporation,NA,NA
+CVEO,Civeo Corporation,Services,Business Services
+VNOM,Viper Energy Partners LP,Basic Materials,Independent Oil & Gas
+CCS,"Century Communities, Inc.",Industrial Goods,Residential Construction
+INFO,IHS Markit Ltd.,Services,Business Services
+FNFV,Fidelity National Financial Ventures,NA,NA
+TSQ,"Townsquare Media, Inc.",Services,Broadcasting - Radio
+OXLCN,NA,NA,NA
+FCB,"FCB Financial Holdings, Inc.",Financial,Regional - Southeast Banks
+GNBC,"Green Bancorp, Inc.",Financial,Money Center Banks
+CALA,"Calithera Biosciences, Inc.",Healthcare,Biotechnology
+ZAYO,"Zayo Group Holdings, Inc.",Technology,Networking & Communication Devices
+SHLX,"Shell Midstream Partners, L.P.",Basic Materials,Oil & Gas Pipelines
+LBRDK,Liberty Broadband Corporation,Services,Broadcasting - TV
+SBLKL,Star Bulk Carriers Corp.,NA,NA
+GAINO,Gladstone Investment Corporation,NA,NA
+STOR,STORE Capital Corporation,NA,NA
+NEFF,Neff Corporation,NA,NA
+HIE,Miller/Howard High Income Equity Fund,NA,NA
+KLXI,KLX Inc.,Industrial Goods,Aerospace/Defense Products & Services
+PRSC,The Providence Service Corporation,Healthcare,Specialized Health Services
+URBN,"Urban Outfitters, Inc.",Services,Apparel Stores
+JNP,"Juniper Pharmaceuticals, Inc.",Healthcare,Drugs - Generic
+RYAAY,Ryanair Holdings plc,NA,NA
+TICC,TICC Capital Corp.,Financial,Closed-End Fund - Debt
+PRGX,"PRGX Global, Inc.",Services,Business Services
+AEGN,Aegion Corporation,Industrial Goods,Heavy Construction
+BPFH,"Boston Private Financial Holdings, Inc.",Financial,Regional - Northeast Banks
+GOV,Government Properties Income Trust,Financial,REIT - Office
+CSQ,Calamos Strategic Total Return Fund,NA,NA
+HDS,"HD Supply Holdings, Inc.",Services,Industrial Equipment Wholesale
+NCTY,The9 Limited,Technology,Multimedia & Graphics Software
+EZT,"Entergy Texas, Inc.",NA,NA
+AJX,Great Ajax Corp,Financial,REIT - Diversified
+RELY,"Real Industry, Inc.",Industrial Goods,Waste Management
+ADRO,"Aduro BioTech, Inc.",Healthcare,Biotechnology
+NYMTO,"New York Mortgage Trust, Inc.",NA,NA
+AFSS,"AmTrust Financial Services, Inc.",NA,NA
+TDOC,"Teladoc, Inc.",Technology,Healthcare Information Services
+BUFF,"Blue Buffalo Pet Products, Inc.",Consumer Goods,Food - Major Diversified
+PLNT,"Planet Fitness, Inc.",Services,Sporting Activities
+GBLIZ,Global Indemnity Limited,NA,NA
+SRCLP,"Stericycle, Inc.",NA,NA
+GAME,NA,NA,NA
+PFGC,Performance Food Group Company,NA,NA
+NVCR,NovoCure Limited,NA,NA
+SOJA,The Southern Company,NA,NA
+SBBP,Strongbridge Biopharma plc,NA,NA
+EXTN,Exterran Corporation,NA,NA
+VYGR,"Voyager Therapeutics, Inc.",NA,NA
+ACG,NA,NA,NA
+MIME,Mimecast Limited,NA,NA
+TCRZ,NA,NA,NA
+MCX,Medley Capital Corporation,NA,NA
+EDIT,"Editas Medicine, Inc.",NA,NA
+LMHA,"Legg Mason, Inc.",NA,NA
+UA,"Under Armour, Inc.",Consumer Goods,Textile - Apparel Clothing
+BTU,Peabody Energy Corporation,Basic Materials,Industrial Metals & Minerals
